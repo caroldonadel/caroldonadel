@@ -5,7 +5,7 @@
 
 - 🔭 Estagiária de Desenvolvimento Front-End
 - 🌱 Aprendendo AngularJS, Angular e C#
-- :sparkling_heart: Amo Gatos :kissing_cat: e café :coffee:
+- :sparkling_heart: Amo gatos :kissing_cat: e café :coffee:
 
 📫 Contatos: 
 
