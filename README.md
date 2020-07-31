@@ -3,7 +3,7 @@
 ![](https://media.giphy.com/media/QAsHga1AB6dIGUsui6/giphy.gif)
 
 
-- 🔭 Estagiária de Desenvolvimento Front-End
+- :computer: Estagiária de Desenvolvimento Front-End
 - 🌱 Aprendendo AngularJS, Angular e C#
 - :sparkling_heart: Amo gatos :kissing_cat: e café :coffee:
 
