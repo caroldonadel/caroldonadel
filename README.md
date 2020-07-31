@@ -1,16 +1,17 @@
-### Hi there 👋
+### Oie 👋
 
-<!--
-**caroldonadel/caroldonadel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://media.giphy.com/media/QAsHga1AB6dIGUsui6/giphy.gif)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estagiária de Desenvolvimento Front-End
+- 🌱 Aprendendo AngularJS, Angular e C#
+- :sparkling_heart: Amo Gatos :kissing_cat: e café :coffee:
+
+📫 Contatos: 
+
+[Twitter](https://twitter.com/acaroldonadel)
+[Instagram](https://www.instagram.com/caroldonadel/)
+[LinkedIn](https://www.linkedin.com/in/carolina-donadel/)
+
+
+
