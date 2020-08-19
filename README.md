@@ -1,7 +1,6 @@
 ### Oie 👋
 
-![](https://media.giphy.com/media/QAsHga1AB6dIGUsui6/giphy.gif)
-
+Algumas informações sobre mim:
 
 - :computer: Estagiária de Desenvolvimento Front-End
 - 🌱 Aprendendo AngularJS, Angular e C#
