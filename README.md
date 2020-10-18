@@ -22,3 +22,5 @@ Algumas informações sobre mim:
 </center>   
 
 
+![](https://komarev.com/ghpvc/?username=caroldonadel&color=blue&style=flat)
+
