@@ -3,7 +3,7 @@
 Algumas informações sobre mim:
 
 - :computer: Estagiária de Desenvolvimento Front-End
-- 🌱 Aprendendo AngularJS, Angular e C#
+- 🌱 Aprendendo Angular e C#
 - :sparkling_heart: Amo gatos :kissing_cat: e café :coffee:
 
 📫 Contatos: 
@@ -12,5 +12,13 @@ Algumas informações sobre mim:
 [Instagram](https://www.instagram.com/caroldonadel/)
 [LinkedIn](https://www.linkedin.com/in/carolina-donadel/)
 
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroldonadel&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=caroldonadel&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>   
 
 
