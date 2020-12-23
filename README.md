@@ -2,8 +2,8 @@
 
 Algumas informações sobre mim:
 
-- :computer: Estagiária de Desenvolvimento Front-End
-- 🌱 Aprendendo Angular e C#
+- :computer: Desenvolvedora Front-End
+- 🌱 Aprendendo Angular 
 - :sparkling_heart: Amo gatos :kissing_cat: e café :coffee:
 
 📫 Contatos: 
