@@ -3,7 +3,7 @@
 Algumas informações sobre mim:
 
 - :computer: Desenvolvedora Front-End
-- 🌱 Aprendendo Angular 
+- 🌱 Interessada em Angular e Flutter
 - :sparkling_heart: Amo gatos :kissing_cat: e café :coffee:
 
 📫 Contatos: 
