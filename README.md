@@ -3,7 +3,7 @@
 Algumas informações sobre mim:
 
 - :computer: Desenvolvedora Front-End
-- 🌱 Interessada em HTML, CSS, Javascript, Angular e React
+- 🌱 Interessada em HTML, CSS, JS/TS e Angular
 - :sparkling_heart: Amo gatos :kissing_cat: e café :coffee:
 
 📫 Contatos: 
