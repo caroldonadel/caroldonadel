@@ -1,12 +1,12 @@
-### Oie 👋
+### Hey 👋
 
-Algumas informações sobre mim:
+Here's a little bit of information about me:
 
-- :computer: Desenvolvedora Front-End
-- 🌱 Interessada em HTML, CSS, JS/TS e Angular
-- :sparkling_heart: Amo gatos :kissing_cat: e café :coffee:
+- :computer: Front-End Developer
+- 🌱 Interested in HTML, CSS, JS/TS and Angular
+- :sparkling_heart: Love cats :kissing_cat: and coffee :coffee:
 
-📫 Contatos: 
+📫 Contact Information: 
 
 [Twitter](https://twitter.com/acaroldonadel)
 [Instagram](https://www.instagram.com/caroldonadel/)
