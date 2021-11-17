@@ -4,7 +4,7 @@ Here's a little bit of information about me:
 
 - :computer: Front-End Developer
 - 🌱 Interested in HTML, CSS, JS/TS and Angular
-- :sparkling_heart: Love cats :kissing_cat: and coffee :coffee:
+- :sparkling_heart: Crazy cat lady :kissing_cat: and have a passion for coffee :coffee:
 
 📫 Contact Information: 
 
