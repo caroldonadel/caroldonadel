@@ -3,7 +3,7 @@
 Here's a little bit of information about me:
 
 - :computer: Front-End Developer
-- 🌱 Interested in HTML, CSS, JS/TS, Angular and React
+- 🌱 Interested in HTML, CSS, JS/TS and React
 - :sparkling_heart: Crazy cat lady :kissing_cat: and have a passion for coffee :coffee:
 
 📫 Contact Information: 
